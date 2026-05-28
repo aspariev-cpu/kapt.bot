@@ -1,0 +1,15 @@
+{
+  "name": "capt-bot-by-leo",
+  "version": "2.0.0",
+  "description": "Discord bot for GTA V caps with tier system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^16.6.1",
+    "node-cron": "^3.0.3",
+    "sqlite3": "^5.1.7"
+  }
+}
